@@ -157,12 +157,10 @@ material-kit-react
         ├── LandingPage
         │   ├── LandingPage.jsx
         │   └── Sections
-        │       ├── ProductSection.jsx
-        │       ├── TeamSection.jsx
+        │       ├── FAQSection.jsx     │       ├── TeamSection.jsx
         │       └── WorkSection.jsx
-        ├── ProfilePage
-        │   └── ProfilePage.jsx
-        └── SignupPage
+        ├── FAQ
+        │   └── FAQ     └── SignupPage
             └── SignupPage.jsx
 ```
 

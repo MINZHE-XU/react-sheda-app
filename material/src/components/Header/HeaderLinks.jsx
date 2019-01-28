@@ -10,7 +10,8 @@ import ListItem from "@material-ui/core/ListItem";
 import Tooltip from "@material-ui/core/Tooltip";
 
 // @material-ui/icons
-import {Apps, CloudDownload, ContactMail} from "@material-ui/icons";
+//https://materialdesignicons.com/
+import {Apps, HelpOutline, Power, ContactMail,Flag} from "@material-ui/icons";
 
 // core components
 import CustomDropdown from "components/CustomDropdown/CustomDropdown.jsx";
@@ -22,90 +23,61 @@ function HeaderLinks({ ...props }) {
   const { classes } = props;
   return (
     <List className={classes.list}>
-      <ListItem className={classes.listItem}>
-        <CustomDropdown
-          noLiPadding
-          buttonText="Components"
-          buttonProps={{
-            className: classes.navLink,
-            color: "transparent"
-          }}
-          buttonIcon={Apps}
-          dropdownList={[
-            <Link to="/" className={classes.dropdownLink}>
-              All components
-            </Link>,
-            <a
-              href="https://creativetimofficial.github.io/material-kit-react/#/documentation"
-              target="_blank"
-              className={classes.dropdownLink}
+        <ListItem className={classes.listItem}>
+            <Button
+                href="/"
+                color="transparent"
+                className={classes.navLink}
             >
-              Documentation
-            </a>
-          ]}
-        />
-      </ListItem>
+                <Power className={classes.icons} /> About
+            </Button>
+        </ListItem>
+        <ListItem className={classes.listItem}>
+            <Button
+                href="/faq"
+                color="transparent"
+                className={classes.navLink}
+            >
+                <HelpOutline className={classes.icons} /> FAQ
+            </Button>
+        </ListItem>
       <ListItem className={classes.listItem}>
         <Button
-          href="https://www.creative-tim.com/product/material-kit-react"
+          href="/contact"
           color="transparent"
-          target="_blank"
           className={classes.navLink}
         >
             <ContactMail className={classes.icons} /> Contact Us
         </Button>
       </ListItem>
-      <ListItem className={classes.listItem}>
-        <Tooltip
-          id="instagram-twitter"
-          title="Follow us on twitter"
-          placement={window.innerWidth > 959 ? "top" : "left"}
-          classes={{ tooltip: classes.tooltip }}
-        >
-          <Button
-            href="https://twitter.com/CreativeTim"
-            target="_blank"
-            color="transparent"
-            className={classes.navLink}
-          >
-            <i className={classes.socialIcons + " fab fa-twitter"} />
-          </Button>
-        </Tooltip>
-      </ListItem>
-      <ListItem className={classes.listItem}>
-        <Tooltip
-          id="instagram-facebook"
-          title="Follow us on facebook"
-          placement={window.innerWidth > 959 ? "top" : "left"}
-          classes={{ tooltip: classes.tooltip }}
-        >
-          <Button
-            color="transparent"
-            href="https://www.facebook.com/CreativeTim"
-            target="_blank"
-            className={classes.navLink}
-          >
-            <i className={classes.socialIcons + " fab fa-facebook"} />
-          </Button>
-        </Tooltip>
-      </ListItem>
-      <ListItem className={classes.listItem}>
-        <Tooltip
-          id="instagram-tooltip"
-          title="Follow us on instagram"
-          placement={window.innerWidth > 959 ? "top" : "left"}
-          classes={{ tooltip: classes.tooltip }}
-        >
-          <Button
-            color="transparent"
-            href="https://www.instagram.com/CreativeTimOfficial"
-            target="_blank"
-            className={classes.navLink}
-          >
-            <i className={classes.socialIcons + " fab fa-instagram"} />
-          </Button>
-        </Tooltip>
-      </ListItem>
+        <ListItem className={classes.listItem}>
+                <Button
+                    href="/join"
+                    className={classes.registerNavLink}
+                    onClick={e => e.preventDefault()}
+                    color="rose"
+                    round
+                >
+                <Flag className={classes.icons} /> Join!
+            </Button>
+        </ListItem>
+        <ListItem className={classes.listItem}>
+            <Tooltip
+                id="github-tooltip"
+                title="Check on github"
+                placement={window.innerWidth > 959 ? "top" : "left"}
+                classes={{ tooltip: classes.tooltip }}
+            >
+                <Button
+                    color="transparent"
+                    href="https://github.com/MINZHE-XU/react-sheda-app"
+                    target="_blank"
+                    className={classes.navLink}
+                >
+                    <i className={classes.socialIcons + " fab fa-github"} />
+                </Button>
+            </Tooltip>
+        </ListItem>
     </List>
   );
 }
