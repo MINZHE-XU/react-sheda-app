@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80d29167-8b4a-4637-913f-248837244ed1" name="Default Changelist" comment="doing click event">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-sheda-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/ads/ads01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/ads/ads02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/ads/ads03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/ads/ads04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/ads/ads05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/ads/ads06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/ads/ads07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/bg-scrollbar-end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/bg-scrollbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/1170x470/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/1170x470/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/1170x470/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/1170x470/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/750x500/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/870x350/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/870x350/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/870x350/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/870x350/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/avatar/author01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/avatar/author02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/avatar/author03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/avatar/author04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/thumbs/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/thumbs/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/thumbs/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/thumbs/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/thumbs/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/blog/thumbs/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/brand/logo-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/brand/logo-circle-lg-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/brand/logo-circle-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/brand/logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/cbp-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo1-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo10-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo2-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo3-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo4-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo5-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo6-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo7-hover-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo7-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo7-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo8-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo9-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/clients/logo9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/device.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/device01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/dummy/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/dummy/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/dummy/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/dummy/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/dummy/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/dummy/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/face-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380/img16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/380x360/img18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/480x460/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/580x550/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/large/img18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/thumbs/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/thumbs/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/thumbs/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/thumbs/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/thumbs/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/thumbs/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/thumbs/img07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gallery/thumbs/img08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/gradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/img-register.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/lady.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/logo-circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/logreg-wrapp-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/macbook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/man.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/man01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/openpanel-demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/parallax/bg01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/parallax/bg02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/category/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/category/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/category/img03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/category/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/category/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/category/img05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/detail/prod02-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/detail/prod02-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/detail/prod02-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/detail/prod02-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/prod12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/product/thumbs/thumb12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/scrollbar-dec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/scrollbar-handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/scrollbar-inc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/select-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/freelancer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/imac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/macbook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/slider-bg29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/slider/work.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/star-half.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/star-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/star-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/large/team01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/large/team02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/large/team03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/large/team04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/team1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/team2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/team3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/team4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/team5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/team6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/team7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/team/team8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/testimoni/avatar01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/testimoni/avatar02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/testimoni/avatar03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/testimoni/avatar04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/testimoni/avatar05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/testimoni/avatar06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/testimoni/avatar07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/testimoni/avatar08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/testimoni/avatar09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/testimoni/avatar10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/text-fill.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/img/video-half.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/loadMore-2Column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/loadMore-fullwidth-4column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/loadMore-fullwidth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/loadMore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/loadMoreMasonry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/loadMoreMasonry3Column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/loadMoreMasonry4Column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/loadMoreMosaic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/portfolioDetail/project9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antd-demo/public/sound/bensound-acousticbreeze.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/material/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/material/package.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/material/src/components/Header/Header.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3519">
+              <caret line="159" column="18" selection-start-line="159" selection-start-column="7" selection-end-line="159" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/material/src/views/Components/Sections/SectionNavbars.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1633">
+              <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
+              <folding>
+                <element signature="e#60#121#0" expanded="true" />
+                <element signature="e#281#328#0" expanded="true" />
+                <element signature="e#550#612#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/material/src/views/ProfilePage/ProfilePage.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+              <folding>
+                <element signature="e#224#271#0" expanded="true" />
+                <element signature="e#393#443#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/material/src/views/ProfilePage/Sections/FAQSection.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1495">
+              <caret line="86" column="41" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/material/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/material/src/components/CustomDropdown/CustomDropdown.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1449">
+              <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+              <folding>
+                <element signature="e#228#289#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/material/src/assets/jss/material-kit-react/views/landingPageSections/productStyle.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/material/src/views/LoginPage/LoginPage.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/material/src/views/LandingPage/LandingPage.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+              <folding>
+                <element signature="e#245#295#0" expanded="true" />
+                <element signature="e#751#810#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/material/src/views/LandingPage/Sections/WorkSection.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>./css/html5shiv.min.js</find>
+      <find>nav navbar-nav navbar-right</find>
+      <find>navbar-toggle</find>
+      <find>navbar-menu</find>
+      <find>download</find>
+      <find>downl</find>
+      <find>Contact</find>
+      <find>img</find>
+      <find>made wit</find>
+      <find>ProductSection</find>
+      <find>rest</find>
+      <find>Parallax-small</find>
+      <find>Menu with Icons</find>
+      <find>round</find>
+      <find>withStyles</find>
+      <find>70px</find>
+      <find>CustomDropdown</find>
+      <find>sectionna</find>
+      <find>handleClick</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/antd-demo/public</dir>
+      <dir>$PROJECT_DIR$/material/node_modules/@material-ui/icons</dir>
+      <dir>$PROJECT_DIR$/material/src/assets</dir>
+      <dir>$PROJECT_DIR$/material/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/material" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/antd-demo/src/App.test.js" />
+        <option value="$PROJECT_DIR$/antd-demo/config-overrides.js" />
+        <option value="$PROJECT_DIR$/antd-demo/src/App.css" />
+        <option value="$PROJECT_DIR$/antd-demo/src/Home.js" />
+        <option value="$PROJECT_DIR$/antd-demo/src/AboutUs.js" />
+        <option value="$PROJECT_DIR$/antd-demo/src/Contact.js" />
+        <option value="$PROJECT_DIR$/antd-demo/src/FAQ.js" />
+        <option value="$PROJECT_DIR$/antd-demo/src/index.js" />
+        <option value="$PROJECT_DIR$/antd-demo/src/css/style.css" />
+        <option value="$PROJECT_DIR$/antd-demo/src/About.js" />
+        <option value="$USER_HOME$/Downloads/creativ html template/index-alt9-clean-revolution-slider.html" />
+        <option value="$PROJECT_DIR$/antd-demo/public/index.html" />
+        <option value="$USER_HOME$/Downloads/creativ html template/about-alt1.html" />
+        <option value="$PROJECT_DIR$/antd-demo/src/App.js" />
+        <option value="$PROJECT_DIR$/antd-demo/package.json" />
+        <option value="$PROJECT_DIR$/material/src/index.js" />
+        <option value="$PROJECT_DIR$/material/src/components/Header/Header.jsx" />
+        <option value="$PROJECT_DIR$/material/src/views/FAQ/FAQ.jsx" />
+        <option value="$PROJECT_DIR$/material/src/views/About/About.jsx" />
+        <option value="$PROJECT_DIR$/material/src/views/Join/Join.jsx" />
+        <option value="$PROJECT_DIR$/material/src/components/Footer/Footer.jsx" />
+        <option value="$PROJECT_DIR$/material/public/index.html" />
+        <option value="$PROJECT_DIR$/material/src/views/Contact/Contact.jsx" />
+        <option value="$PROJECT_DIR$/material/src/routes/index.jsx" />
+        <option value="$PROJECT_DIR$/material/src/views/LandingPage/LandingPage.jsx" />
+        <option value="$PROJECT_DIR$/material/src/assets/jss/material-kit-react/components/parallaxStyle.jsx" />
+        <option value="$PROJECT_DIR$/material/src/components/Header/HeaderLinks.jsx" />
+        <option value="$PROJECT_DIR$/material/src/views/Components/Home.jsx" />
+        <option value="$PROJECT_DIR$/material/src/views/Components/Sections/SectionNavbars.jsx" />
+        <option value="$PROJECT_DIR$/material/src/views/ProfilePage/ProfilePage.jsx" />
+        <option value="$PROJECT_DIR$/material/src/assets/jss/material-kit-react/views/landingPageSections/productStyle.jsx" />
+        <option value="$PROJECT_DIR$/material/src/views/ProfilePage/Sections/FAQSection.jsx" />
+        <option value="$PROJECT_DIR$/material/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="18" />
+    <option name="y" value="23" />
+    <option name="width" value="1505" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@material-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@material-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@material-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="MenuList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@material-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileStepper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="jss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="jss" type="462c0819:PsiDirectoryNode" />
+              <item name="material-kit-react" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="jss" type="462c0819:PsiDirectoryNode" />
+              <item name="material-kit-react" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="jss" type="462c0819:PsiDirectoryNode" />
+              <item name="material-kit-react" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="jss" type="462c0819:PsiDirectoryNode" />
+              <item name="material-kit-react" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="componentsSections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="jss" type="462c0819:PsiDirectoryNode" />
+              <item name="material-kit-react" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="landingPageSections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomDropdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Pagination" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Parallax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="LandingPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="LandingPage" type="462c0819:PsiDirectoryNode" />
+              <item name="Sections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="LoginPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="ProfilePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-sheda-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-sheda-app" type="462c0819:PsiDirectoryNode" />
+              <item name="material" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="ProfilePage" type="462c0819:PsiDirectoryNode" />
+              <item name="Sections" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/Cellar/node/10.9.0/bin/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/material/src/views/ProfilePage" />
+      <recent name="$PROJECT_DIR$/material/src/views/Contact" />
+      <recent name="$PROJECT_DIR$/material/src/views" />
+      <recent name="$PROJECT_DIR$/material/src/views/Components" />
+      <recent name="$PROJECT_DIR$/material/src/assets/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/material/src/views" />
+      <recent name="$PROJECT_DIR$/material/src/assets/img" />
+      <recent name="$PROJECT_DIR$/antd-demo/public/img" />
+      <recent name="$PROJECT_DIR$/antd-demo/public" />
+      <recent name="$PROJECT_DIR$/antd-demo/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Unnamed">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.nvm/versions/node/v11.8.0/bin/node" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="Node.js.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80d29167-8b4a-4637-913f-248837244ed1" name="Default Changelist" comment="" />
+      <created>1548595357292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548595357292</updated>
+      <workItem from="1548595358987" duration="1392000" />
+      <workItem from="1548596772197" duration="49253000" />
+      <workItem from="1548766665040" duration="62000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1548602951801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548602951801</updated>
+    </task>
+    <task id="LOCAL-00002" summary="switch to material">
+      <created>1548660928810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548660928810</updated>
+    </task>
+    <task id="LOCAL-00003" summary="doing click event">
+      <created>1548680760659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548680760659</updated>
+    </task>
+    <task id="LOCAL-00004" summary="doing click event">
+      <created>1548722158094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548722158094</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50707000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="18" y="23" width="1505" height="992" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26280323" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.27444443" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49871793" weight="0.3288889" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49935898" weight="0.3288889" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50128204" side_tool="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49871793" visible="true" weight="0.21266969" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="switch to material" />
+    <MESSAGE value="doing click event" />
+    <option name="LAST_COMMIT_MESSAGE" value="doing click event" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/antd-demo/src/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/antd-demo/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/bower.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/node_modules/@material-ui/core/SvgIcon/SvgIcon.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/node_modules/@material-ui/icons/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="1031" column="49" lean-forward="true" selection-start-line="1031" selection-start-column="49" selection-end-line="1031" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/antd-demo/public/img/lightning-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/antd-demo/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="39" column="109" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2162" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/Contact/Sections/TeamSection.jsx" />
+    <entry file="file://$PROJECT_DIR$/material/src/components/Footer/Footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/FAQ/FAQ.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <folding>
+            <element signature="e#224#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/Join/Join.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2140">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#224#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/Contact/Contact.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="63" column="40" lean-forward="true" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+          <folding>
+            <element signature="e#245#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/bg2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/bg3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/bg8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/lightning-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/profile.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/profile-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/sign.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/landing-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/landing.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/bg7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/img/bg4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/routes/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/ProfilePage/Sections/TeamSection.jsx" />
+    <entry file="file://$PROJECT_DIR$/material/src/assets/jss/material-kit-react/components/parallaxStyle.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/components/Parallax/Parallax.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="46" column="40" lean-forward="true" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/Components/Sections/SectionCarousel.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1092" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/Components/Sections/SectionBasics.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="598" column="48" lean-forward="true" selection-start-line="598" selection-start-column="48" selection-end-line="598" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/Components/Home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <element signature="e#340#390#0" expanded="true" />
+            <element signature="e#699#759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/components/Header/HeaderLinks.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/node_modules/@material-ui/core/styles/withStyles.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="60" column="61" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/components/Grid/GridContainer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/node_modules/@material-ui/core/MenuItem/MenuItem.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/node_modules/@material-ui/core/MenuItem/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/node_modules/@material-ui/core/MenuList/MenuList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="242" column="27" lean-forward="true" selection-start-line="242" selection-start-column="27" selection-end-line="242" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/components/Header/Header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3519">
+          <caret line="159" column="18" selection-start-line="159" selection-start-column="7" selection-end-line="159" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/Components/Sections/SectionNavbars.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1633">
+          <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
+          <folding>
+            <element signature="e#60#121#0" expanded="true" />
+            <element signature="e#281#328#0" expanded="true" />
+            <element signature="e#550#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/ProfilePage/ProfilePage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          <folding>
+            <element signature="e#224#271#0" expanded="true" />
+            <element signature="e#393#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/components/CustomDropdown/CustomDropdown.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+          <folding>
+            <element signature="e#228#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/assets/jss/material-kit-react/views/landingPageSections/productStyle.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/LoginPage/LoginPage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/LandingPage/LandingPage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <element signature="e#245#295#0" expanded="true" />
+            <element signature="e#751#810#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/LandingPage/Sections/WorkSection.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/src/views/ProfilePage/Sections/FAQSection.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="86" column="41" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
